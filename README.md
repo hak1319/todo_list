@@ -132,7 +132,7 @@ python task_manager.py
 
 4. 프로그램 종료 후에도 작업 데이터는 저장됩니다.  
 
-
+![todo](https://github.com/user-attachments/assets/3ff82164-fe52-4342-b9e6-0624b94484ae)
 
 ---
 
